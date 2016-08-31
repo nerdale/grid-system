@@ -12,9 +12,11 @@ header .row nav ul li a{
 	font-family: 'Roboto', sans-serif;
 	padding-right: 2%;
 	display: inline-block;
-	float: right;
-	padding-top: 7%;
+	float: left;
+	left: 36%;
+	bottom: 60px;
 	font-size: 14px;
+	position: relative;
 
 }
 
