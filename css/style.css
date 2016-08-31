@@ -146,9 +146,9 @@ h3{
 	text-align: center;
 }
 .sidebar{
-	right: 16%;
-	top: 1%;
-	position: absolute;
+	margin-left: 73%;
+	margin-top: -125%;
+
 }
 
 .sidebar h4{
@@ -203,6 +203,4 @@ h3{
 	color: #383838;
 	font-size: 14px;
 }
-.main{
-	position: relative;
-}
+
